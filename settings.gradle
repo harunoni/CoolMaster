@@ -1,1 +1,1 @@
-include ':app', ':gy904'
+include ':app', ':gy906', ':pca9685'
