@@ -27,6 +27,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.2.1'
     provided 'com.google.android.things:androidthings:0.1-devpreview'
     testCompile 'junit:junit:4.12'
-    compile project(':gy906')
-    compile project(':pca9685')
+    compile 'org.jsoup:jsoup:1.10.2'
 }
